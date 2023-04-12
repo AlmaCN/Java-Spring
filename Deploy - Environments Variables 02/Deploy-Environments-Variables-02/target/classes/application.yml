@@ -1,0 +1,21 @@
+---
+
+spring:
+  config:
+    activate:
+      on-profile: test
+myCustomVarTree:
+  welcomeMsg: Hello from Test
+server:
+  port: 4000
+
+---
+
+spring:
+  config:
+    activate:
+      on-profile: prod
+myCustomVarTree:
+  welcomeMsg: Hello from Prod
+server:
+  port: 5000
