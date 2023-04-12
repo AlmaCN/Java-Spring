@@ -1,0 +1,6 @@
+environment: dev
+myCustomVarTree:
+  authCode: xyz458
+  devName: Alma
+server:
+  port: 4500
