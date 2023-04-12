@@ -1,0 +1,15 @@
+2023-04-11 11:35:19,388 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ServiziLoggingApplication using Java 19.0.1 on DESKTOP-0KRONNT with PID 14456 (C:\Users\Alma\Desktop\Develhope\Java\Esercizi\SpringBoot\Servizi - Logging\Servizi-Logging\target\classes started by Alma in C:\Users\Alma\Desktop\Develhope\Java\Esercizi\SpringBoot\Servizi - Logging\Servizi-Logging)
+2023-04-11 11:35:19,394 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-04-11 11:35:19,395 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-04-11 11:35:19,474 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-04-11 11:35:19,474 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-04-11 11:35:20,627 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2023-04-11 11:35:20,641 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2023-04-11 11:35:20,642 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2023-04-11 11:35:20,642 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-11 11:35:20,713 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-04-11 11:35:20,714 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1239 ms
+2023-04-11 11:35:21,094 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2023-04-11 11:35:21,105 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2023-04-11 11:35:21,125 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-11 11:35:21,136 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ServiziLoggingApplication in 2.312 seconds (JVM running for 2.825)
